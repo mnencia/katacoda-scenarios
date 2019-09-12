@@ -1,6 +1,20 @@
 {
   "id": "kubernetes-4-node-cluster-running",
   "title": "Kubernetes Labs - 4 Node Running Cluster ",
+  "details": {
+    "intro": {
+      "code": "foreground.sh"
+    },
+    "assets": {
+      "master": [
+        {
+          "file": "k8s-ready.sh",
+          "target": "/tmp/",
+          "chmod": "+x"
+        }
+      ]
+    }
+  },
   "environment": {
     "hideintro": true,
     "hidefinish": true,
