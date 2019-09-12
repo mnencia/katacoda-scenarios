@@ -1,6 +1,7 @@
 {
   "id": "kubernetes-4-node-cluster",
   "title": "Kubernetes Lab - Empty Cluster (4 Nodes)",
+  "icon": "fa-kubernetes",
   "environment": {
     "hideintro": true,
     "hidefinish": true,
