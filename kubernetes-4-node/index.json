@@ -1,13 +1,13 @@
 {
   "id": "kubernetes-4-node-cluster",
-  "title": "Kubernetes Labs - 4 Node Cluster",
+  "title": "Kubernetes Lab - Empty Cluster (4 Nodes)",
   "environment": {
     "hideintro": true,
     "hidefinish": true,
     "hidesidebar": true,
     "showdashboard": true,
     "uilayout": "terminal-v1",
-    "uimessage1": "\u001b[32mWelcome to your 4 Node Kubernetes Lab.\u001b[m\r\n"
+    "uimessage1": "\u001b[32mWelcome to your Kubernetes Lab. (4 Nodes - empty)\u001b[m\r\n"
   },
   "backend": {
     "imageid": "kubernetes-cluster-4node",
