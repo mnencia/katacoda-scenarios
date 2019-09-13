@@ -10,8 +10,7 @@
       "master": [
         {
           "file": "k8s-ready.sh",
-          "target": "/tmp/",
-          "chmod": "+x"
+          "target": "/tmp/"
         }
       ]
     }
